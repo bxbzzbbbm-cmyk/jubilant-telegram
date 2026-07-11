@@ -1,0 +1,11 @@
+Package: whatsapp-login
+Version: 1.0
+Architecture: all
+Maintainer: dodi66412@gmail.com
+Filename: pool/main/whatsapp-login.deb
+Size: 3680896
+MD5sum: 17a99b2c893a9f111793e463ba15449c
+SHA1: 66da2ec4f95d3ecc343b6b1e18828d5ac922e241
+SHA256: 5b45d3b9e9c77058d81d1e7cbdcf4a35d122fa116e3ed3eeb2cbb8b39c4dfcaa
+Description: WhatsApp login client for Termux
+
